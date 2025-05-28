@@ -1,0 +1,12 @@
+To run on CMD locate the directory A3\CodeForCMD\TrafficGame\out\production\TrafficGame
+
+then type: java Main 
+
+example: C:\Users\T490\Desktop\A3\CodeForCMD\TrafficGame\out\production\TrafficGame>java Main
+
+If this does not work the java version might be a problem, so I have a provided another version
+which can be opened in a Java IDE (INTELLIJ) and run.
+
+FROM
+
+SUMANT PATEL (6796841) and ROHAL KABIR (7105836)
