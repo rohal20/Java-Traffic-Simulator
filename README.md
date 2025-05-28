@@ -20,3 +20,18 @@ Traffic Simulator is an interactive Java-based traffic simulator game built over
 - File I/O and Event Handling
 - Client-Server Architecture (Socket Programming)
 
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Java JDK 11+
+- IntelliJ IDEA or any Java-compatible IDE
+
+### Running the Simulator
+
+1. Clone the repository:
+   git clone https://github.com/your-username/TrafficSimulator.git
+   cd TrafficSimulator
+2. Open in IntelliJ and build the project.
+3. Run Main.java in each assignment folder to test different stages.
