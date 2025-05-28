@@ -1,0 +1,14 @@
+To run on CMD locate the directory 3p91assign1\CodeForCMD\TrafficGameCode 
+
+and use the command: java GameEnginePack.GameEngine
+
+
+example: C:\Users\T490\Documents\3p91assign1\CodeForCMD\TrafficGameCode >java GameEnginePack.GameEngine
+
+
+If this does not work the java version might be a problem, so I have a provided another version of the source code in directory
+3p91assign1\TrafficGameCode which can be opened in a compiler and run through the GameEngine Class located in the package "GameEnginePack"
+
+FROM
+
+SUMANT PATEL (6796841) and ROHAL KABIR (7105836)
