@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<MapDesign>
+	<MapLanes>3</MapLanes>
+	<Rounds>5</Rounds>
+	<BotVehicleLane>1</BotVehicleLane>
+</MapDesign>
